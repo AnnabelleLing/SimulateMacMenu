@@ -1,0 +1,13 @@
+.wrap {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0;
+}
+.wrap img {
+  margin: 0 7px;
+  width: 60px;
+  height: 60px;
+}
